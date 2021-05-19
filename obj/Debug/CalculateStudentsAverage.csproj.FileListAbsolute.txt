@@ -1,0 +1,10 @@
+C:\Users\danie\Documents\DouglasCollege\Term2\Introduction to programming\Final300319236\CalculateStudentsAverage\bin\Debug\CalculateStudentsAverage.exe.config
+C:\Users\danie\Documents\DouglasCollege\Term2\Introduction to programming\Final300319236\CalculateStudentsAverage\bin\Debug\CalculateStudentsAverage.exe
+C:\Users\danie\Documents\DouglasCollege\Term2\Introduction to programming\Final300319236\CalculateStudentsAverage\bin\Debug\CalculateStudentsAverage.pdb
+C:\Users\danie\Documents\DouglasCollege\Term2\Introduction to programming\Final300319236\CalculateStudentsAverage\obj\Debug\CalculateStudentsAverage.csprojAssemblyReference.cache
+C:\Users\danie\Documents\DouglasCollege\Term2\Introduction to programming\Final300319236\CalculateStudentsAverage\obj\Debug\CalculateStudentsAverage.Form1.resources
+C:\Users\danie\Documents\DouglasCollege\Term2\Introduction to programming\Final300319236\CalculateStudentsAverage\obj\Debug\CalculateStudentsAverage.Properties.Resources.resources
+C:\Users\danie\Documents\DouglasCollege\Term2\Introduction to programming\Final300319236\CalculateStudentsAverage\obj\Debug\CalculateStudentsAverage.csproj.GenerateResource.cache
+C:\Users\danie\Documents\DouglasCollege\Term2\Introduction to programming\Final300319236\CalculateStudentsAverage\obj\Debug\CalculateStudentsAverage.csproj.CoreCompileInputs.cache
+C:\Users\danie\Documents\DouglasCollege\Term2\Introduction to programming\Final300319236\CalculateStudentsAverage\obj\Debug\CalculateStudentsAverage.exe
+C:\Users\danie\Documents\DouglasCollege\Term2\Introduction to programming\Final300319236\CalculateStudentsAverage\obj\Debug\CalculateStudentsAverage.pdb
